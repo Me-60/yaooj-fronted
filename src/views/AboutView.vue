@@ -1,5 +1,11 @@
+<script>
+export default {
+  name: "AboutView",
+};
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div>关于模块</div>
 </template>
+
+<style scoped></style>
